@@ -1,6 +1,6 @@
 <h2 class="bg-teal white h-25 tc ttu f1 lh-title lh-solid mt0 pa2 pb3 mb0 pb0">
   Hits!
-  <a href="http://hits.dwyl.com/" >
+  <a href="https://letters-hits.herokuapp.com/" >
     <img src="http://hits.dwyl.com/homepage.svg" alt="Hit Count" class="pa0 ba bw1 b--white">
   </a>
 </h2>
