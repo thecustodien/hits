@@ -38,7 +38,7 @@
 
 <h3 class="mt3 fw5 tc db f3 bg-teal white pa2">Your Badge <em>Markdown:</em></h3>
 <pre id="badge" class="fw4 ba bw1 pa3 ma2" style="white-space: pre-wrap; word-break: keep-all;">
-  [![HitCount](http://hits.dwyl.com/{username}/{repo}.svg)](http://hits.dwyl.com/{username}/{repo})
+  [![HitCount](https://letters-hits.herokuapp.com/{username}/{repo}.svg)](https://letters-hits.herokuapp.com/{username}/{repo})
 </pre>
 
 <p class="pl2" id="nojs">
